@@ -92,5 +92,5 @@ inp.addEventListener("input", function () {
 
 showUsers(users);
 updateUserCount(users.length);
-
+// Initial display of all users and count
 
